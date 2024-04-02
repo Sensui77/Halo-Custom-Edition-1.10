@@ -1,0 +1,26 @@
+sv_name "Caravela" 
+sv_public 1
+sv_motd motd.txt 
+sv_maxplayers 20
+sv_rcon_password "FODESIM"
+sv_password ""
+sv_mapcycle_timeout 25 
+sv_friendly_fire 0
+sv_tk_ban 5
+sv_tk_grace 3s
+sv_tk_cooldown 5m
+sv_tk_penalty 1h
+
+sv_mapcycle_add bloodgulch CTF
+sv_mapcycle_add timberland CTF 
+sv_mapcycle_add ratrace "team slayer"
+sv_mapcycle_add sidewinder CTF
+sv_mapcycle_add prison slayer
+sv_mapcycle_add deathisland CTF
+
+multiplayer_hit_sound_volume 1
+multiplayer_draw_teammates_names 1
+mouse_acceleration 0
+chimera_fov 90
+chimera_uncap_cinematic 1
+
